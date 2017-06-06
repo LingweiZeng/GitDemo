@@ -1,1 +1,5 @@
-如果我能看得见,就能轻易的分辨白天黑夜
+public class GitTest{
+	public void static main(String[] args){
+		System.out.pritln("Hello World!");
+	}
+}
